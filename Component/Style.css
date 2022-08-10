@@ -1,0 +1,20 @@
+.butt{
+    align-items: center;
+}
+.ok{
+    display: none;
+}
+.rem{
+    display: block;
+}
+.tooor{
+    background-color: green;
+    display: none;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}

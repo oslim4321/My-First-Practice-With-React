@@ -1,0 +1,16 @@
+*{
+    transition: none;
+    transform: translateY(none);
+}
+.ButtCEnter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+span{
+    font-size: 30px;
+}
+button{
+    font-size: 40px;
+}

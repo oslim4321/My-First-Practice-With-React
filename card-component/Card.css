@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Card{
+    width: 100%;
+    height: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    background-color: #ccc;
+}
+.Card-header{
+    width: 300px;
+    height: 400px;
+    background: #fff;
+    box-shadow: 2px 2px 2px grey;
+}
